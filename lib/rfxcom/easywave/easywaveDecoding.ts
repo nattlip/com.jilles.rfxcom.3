@@ -1,12 +1,20 @@
 export class easywaveDecoding
 
+
+
 {
 
-   addSmileMethod(input: string): string {
+  // constructor(){
+//async onInit (){
+
+addSmileMethod(input: string): string {
         return input + ' :)';
       }
 
 
-}
+  
+  // }
 
-module.exports = new easywaveDecoding()
+  } // class
+
+//module.exports = new easywaveDecoding
